@@ -20,23 +20,22 @@ export const Projects = () => {
     },
     {
       title: "My Portfolio ",
-      description:
-        "A portfolio website to showcase my skills and projects.",
+      description: "A portfolio website to showcase my skills and projects.",
       imgUrl: projImg2,
-      link: "https://github.com/sharmakarish/Chatify",
+      link: "https://github.com/Tanishakhandelwal21/My-Portfolio",
     },
-    {
-      title: "News Application",
-      description: "Taaza Khabar - Top headlines on your tips",
-      imgUrl: projImg4,
-      link: "https://github.com/sharmakarish/News-app",
-    },
-    {
-      title: "Plan for Every Dog's Needs",
-      description: "Tindog - Meet new and interesting dogs nearby.",
-      imgUrl: projImg3,
-      link: "https://github.com/sharmakarish/Tindog-Website",
-    },
+    // {
+    //   title: "News Application",
+    //   description: "Taaza Khabar - Top headlines on your tips",
+    //   imgUrl: projImg4,
+    //   link: "https://github.com/sharmakarish/News-app",
+    // },
+    // {
+    //   title: "Plan for Every Dog's Needs",
+    //   description: "Tindog - Meet new and interesting dogs nearby.",
+    //   imgUrl: projImg3,
+    //   link: "https://github.com/sharmakarish/Tindog-Website",
+    // },
   ];
 
   return (
