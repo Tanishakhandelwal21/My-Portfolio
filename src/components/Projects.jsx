@@ -11,6 +11,25 @@ import TrackVisibility from 'react-on-screen';
 export const Projects = () => {
 
   const projects = [
+    
+    {
+      title: "My Portfolio ",
+      description: "A portfolio website to showcase my skills and projects.",
+      imgUrl: projImg2,
+      link: "https://github.com/Tanishakhandelwal21/My-Portfolio",
+    },
+    {
+      title: "Shiv Mandi Dekuli",
+      description: "Temple website to collect donations online . ",
+      imgUrl: projImg3,
+      link: "https://vardhmaneshwarnath-mahadev-dekuli.vercel.app/",
+    },
+    {
+      title: "SR Jajoria Website",
+      description: "A website for a teacher to provide english resources.",
+      imgUrl: projImg4,
+      link: "https://srjajoriya.com/home",
+    },
     {
       title: "Code Reviewer",
       description:
@@ -18,24 +37,6 @@ export const Projects = () => {
       imgUrl: projImg1,
       link: "https://github.com/Tanishakhandelwal21/Code-Reviewer",
     },
-    {
-      title: "My Portfolio ",
-      description: "A portfolio website to showcase my skills and projects.",
-      imgUrl: projImg2,
-      link: "https://github.com/Tanishakhandelwal21/My-Portfolio",
-    },
-    // {
-    //   title: "News Application",
-    //   description: "Taaza Khabar - Top headlines on your tips",
-    //   imgUrl: projImg4,
-    //   link: "https://github.com/sharmakarish/News-app",
-    // },
-    // {
-    //   title: "Plan for Every Dog's Needs",
-    //   description: "Tindog - Meet new and interesting dogs nearby.",
-    //   imgUrl: projImg3,
-    //   link: "https://github.com/sharmakarish/Tindog-Website",
-    // },
   ];
 
   return (
